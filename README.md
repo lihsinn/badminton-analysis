@@ -5,9 +5,7 @@
 
 ## Demo 展示
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
-
-> 上傳後要將連結替換為實際的影片連結
+https://github.com/user-attachments/assets/c76b885a-6d19-4940-b00e-97c0101eed77
 
 ## 功能特色
 1. ✅ **場地偵測**（Court Detection）- 自動識別羽球場地邊界(綠色區域檢測 + 多邊形逼近)
